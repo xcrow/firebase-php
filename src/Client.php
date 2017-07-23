@@ -3,8 +3,6 @@
 namespace Firebase;
 
 use Exception;
-use Firebase\Token\TokenException;
-use Firebase\Token\TokenGenerator;
 
 /**
  * Firebase PHP Client
